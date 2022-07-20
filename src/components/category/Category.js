@@ -24,9 +24,9 @@ const Category = ({ div_class }) => {
       texto: "Anime",
     },
     {
-      url: "/category/Outlet",
-      img: "https://naurua.com/img/descuento-generico-logo.jpg",
-      texto: "Outlet",
+      url: "/category/Funko",
+      img: "https://seeklogo.com/images/F/funko-logo-5B82C5739E-seeklogo.com.png",
+      texto: "Funko",
     },
     {
       url: "/category/Ropa",
