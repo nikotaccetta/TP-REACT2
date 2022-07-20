@@ -28,7 +28,7 @@ const Checkout = () => {
   const purchaseItemsWithoutImage = () =>
     purchase.items.map((p) => ({
       id: p.id,
-      title: p.title,
+      name: p.name,
       price: p.price,
       q: p.q,
     }));
@@ -83,7 +83,7 @@ const Checkout = () => {
                 {purchase.items.map((p) => (
                   <li key={p.id}>
                     <span>{p.q}.</span>
-                    <span>{p.title}</span>
+                    <span>{p.name}</span>
                   </li>
                 ))}
               </ul>
