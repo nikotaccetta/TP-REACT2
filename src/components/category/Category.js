@@ -30,7 +30,7 @@ const Category = ({ div_class }) => {
     },
     {
       url: "/category/Ropa",
-      img: "https://w7.pngwing.com/pngs/827/1004/png-transparent-clothes-hanger-design-angle-triangle-logo.png",
+      img: "http://cdn.onlinewebfonts.com/svg/img_136814.png",
       texto: "Ropa",
     },
   ];

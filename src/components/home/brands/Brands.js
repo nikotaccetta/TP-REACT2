@@ -11,46 +11,42 @@ const brandsArray = [
     text: "Logo Iron Studios",
   },
   {
-    img: "https://i.pinimg.com/originals/a4/10/68/a41068b195a5d7049e9c649938827fd3.png",
-    text: "Logo Alienware",
+    img: "https://cdn.shopify.com/s/files/1/0268/4112/0815/collections/DC_Comics_logo.svg_4626617d-4e4a-4bb0-8d5c-e48ee36ab301_1024x1024.png",
+    text: "DC Collectibles",
   },
   {
-    img: "http://centroamericaycaribeit.com/wp-content/uploads/2020/05/OMEN_logo_horiz_rgb_gradblack.png",
-    text: "Logo Omen",
+    img: "https://segaretro.org/images/4/42/Kotobukiya_logo.svg",
+    text: "Kotobukiya",
   },
   {
-    img: "https://1000marcas.net/wp-content/uploads/2021/02/Corsair-Logo.png",
-    text: "Logo Corsair",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Hasbro-brand.svg/2048px-Hasbro-brand.svg.png",
+    text: "Hasbro",
   },
   {
-    img: "https://seeklogo.com/images/R/rog-republic-of-gamers-logo-84B39C08CE-seeklogo.com.png",
-    text: "Logo Republic of gamers",
+    img: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BANDAI.svg/2034px-BANDAI.svg.png",
+    text: "Bandai",
   },
   {
-    img: "https://1000marcas.net/wp-content/uploads/2021/05/Acer-Predator-logo.png",
-    text: "Logo Predator",
+    img: "https://www.starwarscali.co/wp-content/uploads/2013/05/sideshow-collectibles-logo.jpg",
+    text: "SideShow",
   },
   {
-    img: "https://www.seekpng.com/png/full/212-2126872_origin-pc-steam-key-bundle-origin-pc-logo.png",
-    text: "Logo Origin",
+    img: "https://iconape.com/wp-content/files/ki/277237/svg/277237.svg",
+    text: "Neca",
   },
   {
-    img: "https://1000marcas.net/wp-content/uploads/2020/03/MSI-Logo-2011.png",
-    text: "Logo MSI",
+    img: "https://seeklogo.com/images/F/funko-logo-5B82C5739E-seeklogo.com.png",
+    text: "Funko",
   },
   {
-    img: "https://1000marcas.net/wp-content/uploads/2020/02/Intel-Logo-2005.png",
-    text: "Logo Intel",
+    img: "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Banpresto_logo.svg/1200px-Banpresto_logo.svg.png",
+    text: "Banpresto",
   },
   {
-    img: "https://www.1sourcevideo.com/shop/pub/media/wysiwyg/brands/maingear.png",
-    text: "Logo Maingear",
+    img: "https://criticalhit.com.au/wp-content/uploads/2019/02/1518139404.png",
+    text: "ichiban Kuji",
   },
-  {
-    img: "https://www.venex.com.ar/nvidia_pc_desktop/img/nvidia-logo.png",
-    text: "Logo nVidia",
-  },
-];
+  ];
 
 const Brands = () => {
   return (

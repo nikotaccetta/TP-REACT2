@@ -8,7 +8,7 @@ const Information = () => {
           <div className="col d-flex align-items-start text-center justify-content-center">
             <div className="row">
               <h3><i className="fas fa-phone h4 pe-4"></i>VENTA TELEFÓNICA</h3>
-              <p>(11)22509037</p>
+              <p>(11)4662-1982</p>
             </div>
           </div>
 
@@ -16,7 +16,7 @@ const Information = () => {
             <div className="row">
               <h3><i className="far fa-clock h4 pe-4"></i>HORARIOS</h3>
               <p>
-                Lunes a viernes de 9:30 a 18:30 hs. <br />
+                Lunes a Viernes de 9:30 a 18:30 hs. <br />
                 Sábados de 10 a 13 hs.
               </p>
             </div>
@@ -24,7 +24,7 @@ const Information = () => {
           <div className="col d-flex align-items-start text-center justify-content-center">
             <div className="row">
               <h3><i className="fab fa-whatsapp h4 pe-4"></i>CONSULTAS</h3>
-              <p>(911) 20509037</p>
+              <p>(911) 15-3265-9845</p>
             </div>
           </div>
         </div>

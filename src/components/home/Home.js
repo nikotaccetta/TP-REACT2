@@ -10,10 +10,7 @@ const Home = () => {
     <div>
       <Slider />
       <ScrollDownArrow />
-      <div id="main" className="section2">
-        <Information />
-      </div>
-
+      
       <h2>TIENDA</h2>
       <div className="container customFloatContainer">
         <a href="/store">
@@ -26,6 +23,10 @@ const Home = () => {
       <h2>Marcas</h2>
       <div className="container customFloatContainer mb-5">
         <Brands/>
+      </div>
+
+      <div id="main" className="section2">
+        <Information />
       </div>
       
     </div>
