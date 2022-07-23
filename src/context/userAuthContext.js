@@ -1,6 +1,5 @@
 import { createContext, useContext } from "react";
 import { useState, useEffect } from "react";
-
 import {
   signInWithEmailAndPassword,
   createUserWithEmailAndPassword,
@@ -12,7 +11,6 @@ import {
   updateProfile,
 } from "firebase/auth";
 import { auth } from "../conexion.js";
-
 import { toast } from "react-toastify";
 
 const contexto = createContext();

@@ -18,18 +18,6 @@
     padding-bottom: 1.2rem;
     margin-bottom: 4rem;
 }
-/* .cat_container_home {
-    display: flex;
-    overflow: hidden;
-    z-index: 900;
-    position: relative;
-    padding-bottom: 1.2rem;
-    margin-bottom: 4rem;
-    border-top: solid 1px var(--black);
-} */
-
-
-/* Div con curva */
 
 .cat_container .cat_radius {
     width: 150%;
@@ -54,16 +42,6 @@
     transition: all .8s ease-in-out;
     height: 100px;
 }
-/* .cat_container_home .cat_radius {
-    width: 150%;
-    border-radius: 0 0 15% 15%;
-    overflow: hidden;
-    box-shadow: 0 0 1rem var(--primary), 0 0.5rem .5rem var(--black_50);
-    background: var(--neutral800);
-    transition: all .8s ease-in-out;
-    height: 140px;
-} */
-
 
 /* Botones de Categorias */
 
@@ -78,7 +56,6 @@
     z-index: 10;
 }
 
-
 /* Imagen */
 
 .cat_container .categories img {
@@ -92,10 +69,6 @@
     max-width: 50px;
     max-height: 50px;
 }
-/* .cat_container_home .categories img {
-    max-width: 80px;
-    max-height: 80px;
-} */
 
 .cat_container:hover .categories img {
     opacity: 1;
@@ -122,14 +95,12 @@
     -o-filter: grayscale(0%);
 }
 
-
 /* Links */
 
 .cat_container .categories a,
 .cat_container_home .categories a {
     text-decoration: none;
 }
-
 
 /* Texto */
 

@@ -103,7 +103,7 @@ const CartProvider = ({ children }) => {
     directPurchase
   };
 
-  return <Provider value={valorDelContexto}>{children}</Provider>;
+  return <Provider value={valorDelContexto}>{children}</Provider>;  
 };
 
 export default CartProvider;

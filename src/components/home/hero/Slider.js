@@ -20,7 +20,7 @@ const Slider = () => {
                 <div className="slide">
                     <div className="content">
                         <h2>Preventa</h2>
-                        <p className="text-center my-2">Pre-Venta proximos productos en salir</p>
+                        <p className="text-center my-2">Pre-Venta proximos productos en salir a la venta</p>
                     </div>
                 </div>
             </section>

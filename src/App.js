@@ -1,16 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
 import NavBar from "./components/header/NavBar";
 import Footer from "./components/footer/Footer";
 import Category from "./components/category/Category";
-
 import Home from "./components/home/Home";
 import ItemListContainer from "./components/itemList/ItemListContainer";
 import ItemDetailContainer from "./components/itemDetail/ItemDetailContainer";
-
 import CartList from "./components/cart/CartList";
 import Checkout from "./components/cart/checkout/Checkout";
-
 import CartProvider from "./context/cartContext";
 import UserAuthProvider from "./context/userAuthContext";
 import { ToastContainer } from "react-toastify";

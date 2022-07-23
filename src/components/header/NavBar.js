@@ -3,7 +3,6 @@ import CartWidget from "../cart/cartWidget/CartWidget";
 import UserWidget from "../user/UserWidget";
 
 const NavBar = () => {
-
     return (
     <nav className="navbar navbar-expand-lg navbar-dark">
       <div className="container-fluid">
@@ -16,7 +15,6 @@ const NavBar = () => {
             alt="logo"
           />
         </NavLink>
-
         <div className="d-flex ms-auto me-1">
           <CartWidget />
           <UserWidget/>

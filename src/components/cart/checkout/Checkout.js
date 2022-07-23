@@ -1,11 +1,8 @@
 import { db } from "../../../conexion.js";
 import { collection, addDoc, serverTimestamp } from "firebase/firestore";
-
 import { useUserAuth } from "../../../context/userAuthContext";
 import { useCart } from "../../../context/cartContext";
-
 import { useState, useEffect } from "react";
-
 import UserAuth from "../../user/UserAuth";
 import EmptyBag from "../EmptyBag";
 

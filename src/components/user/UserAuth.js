@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { useUserAuth } from "../../context/userAuthContext";
 import "./UserAuth.css";
-
 import { toast } from "react-toastify";
 
 const UserAuth = () => {

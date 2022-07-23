@@ -1,5 +1,5 @@
-import { Link  } from "react-router-dom";
-import { useNavigate  } from "react-router-dom";
+import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import ItemCount from "../itemCount/ItemCount";
 import { useCart } from "../../context/cartContext";
 
@@ -11,10 +11,10 @@ const Item = ({ item, footerOption }) => {
   const onAdd = (counter) => {
     addItem({ id, name, price, q: counter, img, stock });
   };
-  
+
   const onBuy = (counter) => {
-    buyItem([{item:[{ id, name, price, q: counter}]}]);
-    navigate('/checkout');
+    buyItem([{ item: [{ id, name, price, q: counter }] }]);
+    navigate("/checkout");
   };
 
   const onUpdate = (q) => {

@@ -24,11 +24,7 @@ const ItemDetail = ({ item }) => {
     <div className="card mb-3 itemdetail">
       <div className="row g-0">
         <div className="col-md-4 img_header">
-          <img
-            src={img}
-            className=" rounded-start"
-            alt="Imagen de producto"
-          />
+          <img src={img} className=" rounded-start" alt="Imagen de producto" />
         </div>
         <div className="col-md-8 card-body">
           <div className="card-body">

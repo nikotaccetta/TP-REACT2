@@ -12,7 +12,7 @@ const CartList = () => {
     <div className="container customContainer cartContainer">
       <div className="card itemCard">
         <div className="card-body">
-          <h2 className="card-title">Productos en su carrito</h2>
+          <h2 className="card-title">Productos en el carrito</h2>
           {carrito.length > 0 ? (
             <>
               <ul className="list-group">

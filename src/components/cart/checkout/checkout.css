@@ -19,20 +19,17 @@
     box-shadow:  0 0 .5rem 0 rgb(37, 37, 37);
     margin: 1rem 0;
     display:flex;
-
 }
 
 .CheckOut .checkout_steps > div > span{
     margin: auto auto;
     font-size: 1.3rem;
     font-weight: bold;
-
 }
 
 .CheckOut .checkout_steps > span {
     margin:auto 0
 }
-
 
 .CheckOut .done {
     background-color: var(--primary);

@@ -3,10 +3,8 @@
     align-items: center;
     margin: 0 5px;
     padding: 4px 3px;
-
     border-bottom: 2px solid var(--primary);
     cursor: pointer;
-
     transition: all 0.3s ease-in-out;
 }
 

@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Josefin+Sans:300,400);
+
 .arrow {
     height: 15vh;
     display: flex;
@@ -64,9 +65,11 @@
     0% {
         opacity: 0;
     }
+
     50% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
@@ -76,9 +79,11 @@
     0% {
         opacity: 0;
     }
+
     50% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
