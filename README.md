@@ -6,9 +6,9 @@ NikoStore es un eCommerce para los coleccionistas que buscan las ultimas figuras
 
 ## Librerias utilizadas
 
-* [React-Bootstrap](https://react-bootstrap.github.io//) \
-* [Firebase](https://firebase.google.com/) \
+* [React-Bootstrap](https://react-bootstrap.github.io//) 
+* [Firebase](https://firebase.google.com/) 
 * Autenticación de usuarios: `Authentication`. Se ha implementado el registro y login utilizando email y clave; así mismo, utilizando una cuenta de Google.
-* [React Toastify](https://github.com/fkhadra/react-toastify#readme/) \
-* [Swiper](https://swiperjs.com/) \
+* [React Toastify](https://www.npmjs.com/package/react-toastify) 
+* [Swiper](https://swiperjs.com/) 
 
