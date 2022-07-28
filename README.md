@@ -2,7 +2,7 @@
 
 NikoStore es un eCommerce para los coleccionistas que buscan las ultimas figuras importadas y al mejor precio.
 
-[Ir al sitio] (https://nikostore.netlify.app/)
+[Ir al sitio](https://nikostore.netlify.app/)
 
 ## Librerias utilizadas
 
